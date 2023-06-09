@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "55cb752f193f01abee00ba4be9b716b7fc9fe11a8187442abdd5a82d39824cf0i0",
+    "meta": {
+      "name": "Shadow Warrior #1",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Silver"
+        },
+        {
+          "trait_type": "Background",
+          "value": "13"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "None"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "70"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "10"
+        },
+        {
+          "trait_type": "HP",
+          "value": "80"
+        },
+        {
+          "trait_type": "MP",
+          "value": "0"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "Santi Silver Amulet"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "None"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6af5971c63bc20dce5aab25a2b375dd8dde6b8a4839def820f2f38715abb101bi0",
+    "meta": {
+      "name": "Shadow Warrior #2",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Silver"
+        },
+        {
+          "trait_type": "Background",
+          "value": "2"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "Soulstone"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "60"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "100"
+        },
+        {
+          "trait_type": "HP",
+          "value": "80"
+        },
+        {
+          "trait_type": "MP",
+          "value": "70"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "Kor Silver Amulet"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "Goldari Ring"
+        }
+      ]
+    }
+  },
+  {
+    "id": "88a23333d22bda4a9280b333f40c8a89d5260e2f38c61079d41f854df5bbba40i0",
+    "meta": {
+      "name": "Shadow Warrior #3",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Silver"
+        },
+        {
+          "trait_type": "Background",
+          "value": "6"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "None"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "40"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "50"
+        },
+        {
+          "trait_type": "HP",
+          "value": "100"
+        },
+        {
+          "trait_type": "MP",
+          "value": "70"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "Kor Silver Amulet"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "None"
+        }
+      ]
+    }
+  },
+  {
+    "id": "63b57dd81ecbb82209b7593bb298320ef50223ef1f6bbf0aab3103f2f329f156i0",
+    "meta": {
+      "name": "Shadow Warrior #4",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Iron"
+        },
+        {
+          "trait_type": "Background",
+          "value": "14"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "None"
+        },
+        {
+          "trait_type": "Denfense Power",
+          "value": "90"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "90"
+        },
+        {
+          "trait_type": "HP",
+          "value": "70"
+        },
+        {
+          "trait_type": "MP",
+          "value": "70"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "None"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "None"
+        }
+      ]
+    }
+  },
+  {
+    "id": "00746fa3223e61b0bad58935c7aa265e70d94355bd9fd9fecb10597c8d4fa77di0",
+    "meta": {
+      "name": "Shadow Warrior #5",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Wooden"
+        },
+        {
+          "trait_type": "Background",
+          "value": "9"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "None"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "50"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "70"
+        },
+        {
+          "trait_type": "HP",
+          "value": "100"
+        },
+        {
+          "trait_type": "MP",
+          "value": "30"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "None"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "None"
+        }
+      ]
+    }
+  },
+  {
+    "id": "126b5ebb4bddcb76b69481239b12915a7e0cfe71855234f6ba929fa6bae8b5cai0",
+    "meta": {
+      "name": "Shadow Warrior #6",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Wooden"
+        },
+        {
+          "trait_type": "Background",
+          "value": "2"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "None"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "50"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "90"
+        },
+        {
+          "trait_type": "HP",
+          "value": "60"
+        },
+        {
+          "trait_type": "MP",
+          "value": "0"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "None"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "None"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a0d1cb608f683549b10d9465ac75dcc212975be96b62cdfe09d1f2ff21b5e2d1i0",
+    "meta": {
+      "name": "Shadow Warrior #7",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Iron"
+        },
+        {
+          "trait_type": "Background",
+          "value": "1"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "None"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "80"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "60"
+        },
+        {
+          "trait_type": "HP",
+          "value": "80"
+        },
+        {
+          "trait_type": "MP",
+          "value": "50"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "Gamo Amulet"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "Sun Iron Ring"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6c63f44d28f971dbde2e4bd9ebbee10e954c08bad0b04c0805df38c9fbb150d3i0",
+    "meta": {
+      "name": "Shadow Warrior #8",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Wooden"
+        },
+        {
+          "trait_type": "Background",
+          "value": "3"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "None"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "60"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "30"
+        },
+        {
+          "trait_type": "HP",
+          "value": "70"
+        },
+        {
+          "trait_type": "MP",
+          "value": "70"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "None"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "None"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7a4d29d95e55bbbf78da61a78e030da02541ed50f85bd584658060ce03c997d1i0",
+    "meta": {
+      "name": "Shadow Warrior #9",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Silver"
+        },
+        {
+          "trait_type": "Background",
+          "value": "2"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "None"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "50"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "40"
+        },
+        {
+          "trait_type": "HP",
+          "value": "70"
+        },
+        {
+          "trait_type": "MP",
+          "value": "60"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "Santi Silver Amulet"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "Era Ring"
+        }
+      ]
+    }
+  },
+  {
+    "id": "760012095cbf0c8ea8c21200a2f47bd23564a762693a8ce75265a41c5cb2d62ai0",
+    "meta": {
+      "name": "Shadow Warrior #10",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Iron"
+        },
+        {
+          "trait_type": "Background",
+          "value": "7"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "None"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "60"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "40"
+        },
+        {
+          "trait_type": "HP",
+          "value": "30"
+        },
+        {
+          "trait_type": "MP",
+          "value": "70"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "Kali Amulet"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "Astra Iron Ring"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b0009ec0fdcd37628f1927faf1b1b2dd831cc9219f27bd46775897eb2dae54e9i0",
+    "meta": {
+      "name": "Shadow Warrior #11",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Iron"
+        },
+        {
+          "trait_type": "Background",
+          "value": "10"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "None"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "40"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "90"
+        },
+        {
+          "trait_type": "HP",
+          "value": "60"
+        },
+        {
+          "trait_type": "MP",
+          "value": "100"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "None"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "None"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cfce0e532e9512244bdbba9dcf368fc6bd1412237b116800837f08bb1e0081bei0",
+    "meta": {
+      "name": "Shadow Warrior #12",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Iron"
+        },
+        {
+          "trait_type": "Background",
+          "value": "5"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "None"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "50"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "100"
+        },
+        {
+          "trait_type": "HP",
+          "value": "0"
+        },
+        {
+          "trait_type": "MP",
+          "value": "50"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "Gamo Amulet"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "None"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9281a7209d09b58421254e496a452abe4e4dc1b29118be4c57cf4f1463962acai0",
+    "meta": {
+      "name": "Shadow Warrior #13",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Wooden"
+        },
+        {
+          "trait_type": "Background",
+          "value": "10"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "Burger"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "60"
+        },
+        {
+          "trait_type": "Attack",
+          "value": "90"
+        },
+        {
+          "trait_type": "HP",
+          "value": "100"
+        },
+        {
+          "trait_type": "MP",
+          "value": "60"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "None"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "Wooden Amethyst Ring"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d3d01b0f36e0f77d5983977e6ba03af8d941cd6484925b4fb2471695282aea4bi0",
+    "meta": {
+      "name": "Shadow Warrior #14",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Silver"
+        },
+        {
+          "trait_type": "Background",
+          "value": "6"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "None"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "50"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "80"
+        },
+        {
+          "trait_type": "HP",
+          "value": "80"
+        },
+        {
+          "trait_type": "MP",
+          "value": "100"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "None"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "Moon Ring"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8485ee99c63fdde3f2bc9edde05309718f71087297befe4f25c5888f402d9ef3i0",
+    "meta": {
+      "name": "Shadow Warrior #15",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Wooden"
+        },
+        {
+          "trait_type": "Background",
+          "value": "8"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "None"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "50"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "90"
+        },
+        {
+          "trait_type": "HP",
+          "value": "0"
+        },
+        {
+          "trait_type": "MP",
+          "value": "0"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "None"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "Wooden Saphire Ring"
+        }
+      ]
+    }
+  },
+  {
+    "id": "65f431ab0e66dab475291d86b1aa811d4969ba32480a4899cd4990db982ab86ci0",
+    "meta": {
+      "name": "Shadow Warrior #16",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Silver"
+        },
+        {
+          "trait_type": "Background",
+          "value": "7"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "None"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "30"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "60"
+        },
+        {
+          "trait_type": "HP",
+          "value": "70"
+        },
+        {
+          "trait_type": "MP",
+          "value": "50"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "None"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "None"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7ecefb185da10351a2018fea1e159710f2818024c7aec53838a200d07bac8a13i0",
+    "meta": {
+      "name": "Shadow Warrior #17",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Silver"
+        },
+        {
+          "trait_type": "Background",
+          "value": "4"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "None"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "30"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "60"
+        },
+        {
+          "trait_type": "HP",
+          "value": "0"
+        },
+        {
+          "trait_type": "MP",
+          "value": "70"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "Fazuki Amulet"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "Goldari Ring"
+        }
+      ]
+    }
+  },
+  {
+    "id": "72d30cfa77eb9d509af2507e503d8ef2cccc2bba5d7b835c3f4a000c58857d3di0",
+    "meta": {
+      "name": "Shadow Warrior #18",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Silver"
+        },
+        {
+          "trait_type": "Background",
+          "value": "9"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "None"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "30"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "70"
+        },
+        {
+          "trait_type": "HP",
+          "value": "0"
+        },
+        {
+          "trait_type": "MP",
+          "value": "60"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "Lunia Silver Amulet"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "Wa Ring"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e33dbacb12b80dc2df3e92d80475eb811f0d0bbd4b12de46154966799c23068ei0",
+    "meta": {
+      "name": "Shadow Warrior #19",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Silver"
+        },
+        {
+          "trait_type": "Background",
+          "value": "3"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "None"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "30"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "20"
+        },
+        {
+          "trait_type": "HP",
+          "value": "50"
+        },
+        {
+          "trait_type": "MP",
+          "value": "100"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "None"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "None"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6238396f9b6d84dbbf905bff6a5c2c1591a52f8c6df4e6500fc1e55f138a6c8di0",
+    "meta": {
+      "name": "Shadow Warrior #20",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Silver"
+        },
+        {
+          "trait_type": "Background",
+          "value": "6"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "None"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "30"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "60"
+        },
+        {
+          "trait_type": "HP",
+          "value": "50"
+        },
+        {
+          "trait_type": "MP",
+          "value": "60"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "None"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "Deepness Ring"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6e0e04b37ba51cfdef393da4ee784af6193a9ad6848e7eb00cd65d3b613ec7ddi0",
+    "meta": {
+      "name": "Shadow Warrior #21",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Iron"
+        },
+        {
+          "trait_type": "Background",
+          "value": "5"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "None"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "50"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "90"
+        },
+        {
+          "trait_type": "HP",
+          "value": "50"
+        },
+        {
+          "trait_type": "MP",
+          "value": "100"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "Kanju Amulet"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "None"
+        }
+      ]
+    }
+  },
+  {
+    "id": "95aec52ecafa2d997a92b14a7a526f185055dc4fb45e1e8fc9a4ea27ad4f744di0",
+    "meta": {
+      "name": "Shadow Warrior #22",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Iron"
+        },
+        {
+          "trait_type": "Background",
+          "value": "10"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "None"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "80"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "100"
+        },
+        {
+          "trait_type": "HP",
+          "value": "80"
+        },
+        {
+          "trait_type": "MP",
+          "value": "50"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "Tonko Amulet"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "None"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0735325a21d230e322eebbf791f1a54f731238945321a2e548d064ff182cc98ci0",
+    "meta": {
+      "name": "Shadow Warrior #23",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Iron"
+        },
+        {
+          "trait_type": "Background",
+          "value": "11"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "None"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "74"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "70"
+        },
+        {
+          "trait_type": "HP",
+          "value": "30"
+        },
+        {
+          "trait_type": "MP",
+          "value": "100"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "Gipsy Amulet"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "Blossom Iron Ring"
+        }
+      ]
+    }
+  },
+  {
+    "id": "edf236515f7dec99b5898c47a21b50e4ea4833451854c08585a7e0f4d7458620i0",
+    "meta": {
+      "name": "Shadow Warrior #24",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Iron"
+        },
+        {
+          "trait_type": "Background",
+          "value": "12"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "None"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "60"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "30"
+        },
+        {
+          "trait_type": "HP",
+          "value": "60"
+        },
+        {
+          "trait_type": "MP",
+          "value": "80"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "None"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "None"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3adb9df67d410fd477a429bdf5baea8ea9c18b14858c6bc148aa7e68651a91c4i0",
+    "meta": {
+      "name": "Shadow Warrior #25",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Iron"
+        },
+        {
+          "trait_type": "Background",
+          "value": "13"
+        },
+        {
+          "trait_type": "Mutation",
+          "value": "None"
+        },
+        {
+          "trait_type": "Defense Power",
+          "value": "50"
+        },
+        {
+          "trait_type": "Attack Power",
+          "value": "50"
+        },
+        {
+          "trait_type": "HP ",
+          "value": "60"
+        },
+        {
+          "trait_type": "MP",
+          "value": "100"
+        },
+        {
+          "trait_type": "Amulet",
+          "value": "Gypsy Amulet"
+        },
+        {
+          "trait_type": "Ring",
+          "value": "Ocean Iron Ring"
+        }
+      ]
+    }
+  }
+]
